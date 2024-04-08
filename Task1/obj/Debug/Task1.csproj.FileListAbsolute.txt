@@ -1,0 +1,10 @@
+D:\Pairs\КП Практика\Работа 1\Task1\bin\Debug\Task1.exe.config
+D:\Pairs\КП Практика\Работа 1\Task1\bin\Debug\Task1.exe
+D:\Pairs\КП Практика\Работа 1\Task1\bin\Debug\Task1.pdb
+D:\Pairs\КП Практика\Работа 1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Pairs\КП Практика\Работа 1\Task1\obj\Debug\Task1.Form1.resources
+D:\Pairs\КП Практика\Работа 1\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\Pairs\КП Практика\Работа 1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+D:\Pairs\КП Практика\Работа 1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Pairs\КП Практика\Работа 1\Task1\obj\Debug\Task1.exe
+D:\Pairs\КП Практика\Работа 1\Task1\obj\Debug\Task1.pdb

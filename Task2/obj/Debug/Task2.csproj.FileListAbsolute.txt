@@ -1,0 +1,10 @@
+D:\Pairs\КП Практика\Работа 1\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\Pairs\КП Практика\Работа 1\Task2\obj\Debug\Task1.Form1.resources
+D:\Pairs\КП Практика\Работа 1\Task2\obj\Debug\Task2.Properties.Resources.resources
+D:\Pairs\КП Практика\Работа 1\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+D:\Pairs\КП Практика\Работа 1\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\Pairs\КП Практика\Работа 1\Task2\bin\Debug\Task2.exe.config
+D:\Pairs\КП Практика\Работа 1\Task2\bin\Debug\Task2.exe
+D:\Pairs\КП Практика\Работа 1\Task2\bin\Debug\Task2.pdb
+D:\Pairs\КП Практика\Работа 1\Task2\obj\Debug\Task2.exe
+D:\Pairs\КП Практика\Работа 1\Task2\obj\Debug\Task2.pdb
